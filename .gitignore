@@ -1,0 +1,24 @@
+# Node
+node_modules/
+dist/
+
+# Java
+target/
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
